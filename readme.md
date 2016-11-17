@@ -1,3 +1,4 @@
 #学习git
--feature-A
+- feature-A
 - fix-B
+- feature-C
